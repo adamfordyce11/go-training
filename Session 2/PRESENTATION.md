@@ -1,12 +1,8 @@
-<!-- .slide: data-background="css/custom.css" -->
 ## Variables, Data Types, and Control Structures
 
 - Module Title: Variables, Data Types, and Control Structures
-- Presenter's Name: [Your Name]
+- Presenter's Name: Adam Fordyce
 - Date: [Date]
-
-Note:
-Speaker notes can be added here.
 
 ---
 ## Objectives
