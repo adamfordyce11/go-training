@@ -2,6 +2,26 @@
 
 ## Calculate the factoral of a given number using a loop
 
+A factorial of a non-negative integer n, denoted as n!, is the product of all positive integers less than or equal to n. It is commonly used in mathematics, especially in combinatorics and probability theory.
+
+For example:
+```
+0! = 1 (by definition)
+1! = 1
+2! = 2 * 1 = 2
+3! = 3 * 2 * 1 = 6
+4! = 4 * 3 * 2 * 1 = 24
+In general, the factorial of n can be defined as:
+
+n! = n * (n-1) * (n-2) * ... * 2 * 1
+```
+
+> Note that the factorial function grows very quickly, and factorials of large numbers can become extremely large, often exceeding the limits of standard integer data types in programming languages.
+
+
+## Code
+
+
 ```go
 package main
 

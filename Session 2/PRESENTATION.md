@@ -119,6 +119,8 @@ defer file.Close()
 
 - Write a program that calculates the factorial of a given number using a loop.
 
+> A factorial of a non-negative integer n, denoted as n!, is the product of all positive integers less than or equal to n. It is commonly used in mathematics, especially in combinatorics and probability theory.
+
 ---
 ## Conclusion
 

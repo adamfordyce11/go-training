@@ -81,5 +81,3 @@ import "mypackage"
 - Congratulations, you have completed the Working with Packages and Imports module!
 - You should now have a good understanding of packages, imports, and how to create and use custom packages in Go.
 - Keep practicing creating and using packages to improve your Go programming skills.
-
----
