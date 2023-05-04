@@ -9,21 +9,21 @@ Note:
 Speaker notes can be added here.
 
 ---
-## Slide 2: Objectives
+## Objectives
 
 - By the end of this module, you will be able to:
   - Understand variables and data types in Go.
   - Explore control structures: if, for, switch, and defer.
 
 ---
-## Slide 3: Resources
+## Resources
 
 - Here are some helpful resources for this module:
   - [Go basics](https://gobyexample.com/variables)
   - [Control structures](https://gobyexample.com/for)
 
 ---
-## Slide 4: Variables
+## Variables
 
 - Variables are used to store values in a program.
 - In Go, variables can be declared using the `var` keyword, followed by the variable name, type, and optionally an initial value.
@@ -36,7 +36,7 @@ c := 3.14
 ```
 
 ---
-## Slide 5: Data Types
+## Data Types
  
 - Go has several built-in data types, including:
   - Numeric types (int, float32, float64)
@@ -52,7 +52,7 @@ var text string = "Hello, Go!"
 ```
 
 ---
-## Slide 6: Control Structures: if
+## Control Structures: if
 - Go supports conditional statements with the if keyword.
 - The if statement is followed by a condition and a block of code to execute if the condition is true.
 
@@ -67,7 +67,7 @@ if x > y {
 ```
 
 ---
-## Slide 7: Control Structures: for
+## Control Structures: for
 
 - Go has only one looping construct: the for loop.
 - The for loop can be used with three components (initialization, condition, and post) or with a single condition as a while loop.
@@ -83,7 +83,7 @@ for n < 100 {
 ```
 
 ---
-## Slide 8: Control Structures: switch
+## Control Structures: switch
 
 - The switch statement is used to execute different code blocks based on multiple conditions.
 - Cases are non-fallthrough by default, meaning they do not execute the subsequent case's code unless the fallthrough keyword is used.
@@ -102,7 +102,7 @@ default:
 ```
 
 ---
-## Slide 9: Control Structures: defer
+## Control Structures: defer
 
 - The defer keyword is used to ensure a function call is executed later in the program, usually for cleanup purposes.
 - Defer is often used to close files, network connections, or release resources.
@@ -119,12 +119,12 @@ defer file.Close()
 
 
 ---
-## Slide 10: Exercise
+## Exercise
 
 - Write a program that calculates the factorial of a given number using a loop.
 
 ---
-## Slide 11: Conclusion
+## Conclusion
 
 - Congratulations, you have completed the "Variables, Data Types, and Control Structures" module!
 - You should now have a deeper understanding of variables, data types, and control structures in Go.
