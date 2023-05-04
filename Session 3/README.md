@@ -1,4 +1,4 @@
-# Module: Variables, Data Types, and Control Structures
+# Module: Functions and Methods
 
 ## Materials
 
