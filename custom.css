@@ -1,0 +1,23 @@
+/* Move slide titles to the top */
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    position: static;
+    margin-top: 40px;
+    text-align: left;
+    font-weight: bold;
+  }
+  
+  /* Add space between the title and the content */
+  .reveal section > *:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) {
+    margin-top: 50px;
+  }
+  
+  /* Left-align the content */
+  .reveal p, .reveal ul, .reveal ol {
+    text-align: left;
+  }
+  
+  /* Enlarge the slide number */
+  .reveal .slide-number {
+    font-size: 2em;
+  }
+  

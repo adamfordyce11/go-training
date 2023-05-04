@@ -1,0 +1,7 @@
+{
+  "theme": "serif",
+  "transition": "slide",
+  "transitionSpeed": "fast",
+  "controls": true,
+  "progress": true
+}
