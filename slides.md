@@ -21,3 +21,5 @@ revealOptions:
 {{./go-training/Session 3/PRESENTATION.md}}
 ---
 {{./go-training/Session 4/PRESENTATION.md}}
+---
+{{./go-training/Session 5/PRESENTATION.md}}
