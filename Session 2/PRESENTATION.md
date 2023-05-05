@@ -1,8 +1,6 @@
 ## Variables, Data Types, and Control Structures
 
 - Module Title: Variables, Data Types, and Control Structures
-- Presenter's Name: Adam Fordyce
-- Date: [Date]
 
 ---
 ## Objectives

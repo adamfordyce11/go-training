@@ -1,8 +1,6 @@
 ## Functions and Methods
 
 - Module Title: Functions and Methods
-- Presenter's Name: Adam Fordyce
-- Date: [Date]
 
 ---
 ## Introduction

@@ -1,8 +1,6 @@
 ## Introduction to Go Programming
 
  - Module Title: Introduction to Go Programming
- - Presenter's Name: Adam Fordyce
- - Date: [Date]
 
 ---
 ## Introduction

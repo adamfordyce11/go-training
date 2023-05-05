@@ -1,8 +1,6 @@
 ## Working with Packages and Imports
 
 - Module Title: Working with Packages and Imports
-- Presenter's Name: Adam Fordyce
-- Date: [Date]
 
 ---
 ## Introduction
