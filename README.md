@@ -10,6 +10,7 @@ This is a comprehensive self learning course on Go programming language. In this
 - [Variables, Data Types, and Control Structures](./Session%202/README.md)
 - [Functions and Methods](./Session%203/README.md)
 - [Working with Packages and Imports](./Session%204/README.md)
+- [Introduction to Goroutines and Channels](./Session%205/README.md)
 
 
 
