@@ -1,6 +1,6 @@
 ## Introduction to Go Programming
 
- - Module Title: Introduction to Go Programming
+ - Introduction to Go Programming
 
 ---
 ## Introduction
