@@ -2,7 +2,7 @@
 title: reveal-md deployed to gh-pages
 separator: <!--s-->
 verticalSeparator: <!--v-->
-theme: dark
+theme: black
 highlight-theme: monokai
 css: custom.css
 revealOptions:
