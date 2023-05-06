@@ -28,9 +28,9 @@ easy to learn and use. It is becoming increasingly popular in software developme
 ---
 ## What is Go?
 
- - Go is an open-source programming language developed by Google in 2009.
- - It is designed to be simple, fast, and efficient, with a focus on concurrency and scalability.
- - Go is popular for building web applications, network servers, and other distributed systems.
+ - Go is an open-source programming language developed by Google in 2009. <!-- .element: class="fragment" -->
+ - It is designed to be simple, fast, and efficient, with a focus on concurrency and scalability. <!-- .element: class="fragment" -->
+ - Go is popular for building web applications, network servers, and other distributed systems. <!-- .element: class="fragment" -->
 
 ---
 ## Go Syntax
