@@ -74,6 +74,7 @@ func main() {
  - `package main`: This line specifies that this file is part of the main package, which is the package that is executed when you run a Go program.
  - `import "fmt"`: This line imports the fmt package, which contains functions for formatting and printing output.
  - `func main() { ... }`: This is the main function of the program, which is the entry point for execution.
+<!--v-->
  - `fmt.Println("Hello, World!")`: This line prints the string "Hello, World!" to the console using the Println function from the fmt package.
 
 ---
