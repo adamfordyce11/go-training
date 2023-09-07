@@ -46,8 +46,9 @@ func aws() (string, error) {
 // Main routine
 func main() {
    value, err := aws()
-   if err != nil:
+   if err != nil {
       // do something here
+   }
 }
 ```
 
