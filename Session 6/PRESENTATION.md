@@ -38,7 +38,7 @@ If a function or a method is defined it is good practice to have it return an er
 
 ```go
 // Function
-func aws() (value string, error) {
+func aws() (string, error) {
   // Do stuff here
   return nil, fmt.Errorf("Problem with aws function")
 } 
