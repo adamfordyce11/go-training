@@ -32,6 +32,51 @@ if err != nil {
 }
 ```
 
+### Functions/Methods
+
+If a function or a method is defined it is good practice to have it return an error so that the calling function can deal with it appropriately as shown in the following example
+
+```go
+// Function
+func aws() (value string, error) {
+  // Do stuff here
+  return nil, fmt.Errorf("Problem with aws function")
+} 
+
+// Main routine
+func main() {
+   value, err := aws()
+   if err != nil:
+      // do something here
+}
+```
+
+### Gorountie error logging
+
+When using a go routine, you should always check that the go routine doesn't exit with an error and use the builtin recover() function to log its result as shown in the following example.
+
+```go
+
+func main() {
+  // Encapuslate the code you want to execute in an anonymous function
+  go func() {
+    defer func() {
+      if r := recover(); r != nil {
+        log.Errorf("Go routine failed with error: %w", r)
+      }
+    }()
+    // Do the work intended for the go routine
+    data, err := do-complex-function()
+    if err != nil {
+        log.Errorf("Complex Function failed, %w", err)
+    }
+  }()
+}
+
+```
+
+### Error handling 
+
 ---
 
 ## Logging in Go
